@@ -9,6 +9,7 @@ Currently neovide has some UI improvements that are under development. To enable
 
 
 For a fresh installation of NEOVIM follow the basic steps:
+* Install .Net SDK Core 6 or superior
 * Install Neovim with default settings using the official tutorial for your system
 * Create the default config folder (with neovim opened use the command "-h nvim.txt" and follow the first step)
 * Install the Consolas font available here if your system doesn't have it
