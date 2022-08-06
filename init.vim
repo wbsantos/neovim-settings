@@ -62,6 +62,7 @@ else
 	colorscheme default
 endif
 
+set tabstop=4 shiftwidth=4 expandtab
 set number
 "------------------------------------------------------- 
 "           Settings for neovide
